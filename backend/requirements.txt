@@ -1,0 +1,5 @@
+numpy
+setuptools
+uvicorn
+fastapi
+pyspark==3.5.3
